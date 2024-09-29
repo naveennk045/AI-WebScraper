@@ -1,0 +1,7 @@
+streamlit 
+selenium
+groq
+beautifulsoup4
+lxml 
+html5lib
+python-dotenv
