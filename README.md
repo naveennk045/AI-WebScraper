@@ -51,7 +51,7 @@ Check out the demo video of how this tool works:
 ### **Installation**:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/ai-web-scraper-chatbot.git
+    git clone https://github.com/naveennk045/AI-WebScraper
     ```
 
 2. Install the required dependencies:
